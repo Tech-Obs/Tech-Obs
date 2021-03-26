@@ -1,5 +1,4 @@
-oniguruma regular expressions version 5.6.0    2007/04/03
-Oniguruma Regular Expressions Version 5.6.0    2007/04/03
+Oniguruma Regular Expressions Version 5.6.0   
 
 syntax: ONIG_SYNTAX_RUBY (default)
 
